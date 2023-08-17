@@ -1,2 +1,2 @@
-# Projects
-All of my projects are in this repo.
+# Weather API
+Weather APP using HTML, CSS and JS as well as API.
